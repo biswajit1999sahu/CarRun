@@ -6,7 +6,7 @@ function start()
 
 function run()
 {
-   if(m==1305)
+   if(m==1350)
    {
        clearInterval(y);
        m=0;
