@@ -2,11 +2,11 @@ m=0;
 var y;
 function start()
 {
-    var y=setInterval(run,100);
+    y=setInterval(run,100);
 
 function run()
 {
-   if(m==1300)
+   if(m==1305)
    {
        clearInterval(y);
        m=0;
